@@ -35,7 +35,7 @@ The combined work is licensed under the Creative Commons Attribution-NonCommerci
 
 # Credits
 **Flair 1.0:**
-- **[@imonline](https://github.com/imonline) & [@speedracker](https://github.com/speedracker)**
+- **[@imonline]([https://github.com/imonline](https://www.deviantart.com/imonline)) & [@speedracker]((https://www.deviantart.com/speedracker)**
 **monstercat-visualizer:**
 - **Rainmeter Skin** - **[@marcopixel](https://github.com/marcopixel) & [@tjhrulz](https://github.com/tjhrulz)**
 - **Google Play Music Desktop Player Plugin** - **[@tjhrulz](https://github.com/tjhrulz/GPMDP-Plugin)**
@@ -50,4 +50,4 @@ The combined work is licensed under the Creative Commons Attribution-NonCommerci
 - For bringing awesome music and artists to the community - **Monstercat** <3
 ##### Disclaimer: The resources used in monstercat-viusalizer are in no way endorsed by the respective owners. This skin is not affiliated with Monstercat and the artists.
 **Chameleon Plugin**
-- **[@SockstheFox](https://github.com/socks-the-fox)
+- **[@SockstheFox](https://github.com/socks-the-fox)**
