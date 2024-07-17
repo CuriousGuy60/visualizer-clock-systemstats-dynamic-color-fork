@@ -11,7 +11,7 @@ Fork of Flair 1.0 by imonline and Monstercat Visualizer for Rainmeter by MarcoPi
   * RAM usage and total
   * Net Download
   * Net Upload
-You will need to have SpeedFan installed for the temperature to work.
+You will need to have SpeedFan installed and run it for the temperature to work.
 Link: www.almico.com/speedfan.php
 
 # Installation:
