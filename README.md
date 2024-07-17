@@ -1,6 +1,6 @@
 # visualizer-clock-systemstats-dynamic-color-fork
 Fork of Flair 1.0 by imonline and Monstercat Visualizer for Rainmeter by MarcoPixel
-Features
+# Features
 * Music visualizer
 * Song name&cover display
 * Current time
@@ -14,7 +14,7 @@ Features
 You will need to have SpeedFan installed for the temperature to work.
 Link: www.almico.com/speedfan.php
 
-Installation:
+# Installation:
 1. Download&install latest version of Rainmeter
 2. Download .rmskin file from the download button below the cover
 3. Double-click .rmskin file
