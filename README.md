@@ -35,7 +35,7 @@ The combined work is licensed under the Creative Commons Attribution-NonCommerci
 
 # Credits
 **Flair 1.0:**
-- **[@imonline]([https://github.com/imonline](https://www.deviantart.com/imonline)) & [@speedracker]((https://www.deviantart.com/speedracker)**
+- **[@imonline](https://www.deviantart.com/imonline) & [@speedracker](https://www.deviantart.com/speedracker)**
 **monstercat-visualizer:**
 - **Rainmeter Skin** - **[@marcopixel](https://github.com/marcopixel) & [@tjhrulz](https://github.com/tjhrulz)**
 - **Google Play Music Desktop Player Plugin** - **[@tjhrulz](https://github.com/tjhrulz/GPMDP-Plugin)**
