@@ -22,7 +22,7 @@ Installation:
 ![Instruction](https://github.com/CuriousGuy60/visualizer-clock-systemstats-dynamic-color-fork/blob/main/Instruction.png?raw=true)
 5. Click "Install", and we're done with skin installation! (For the song name&cover to display, make sure to install WebNowPlaying extension in your browser)
 
-#LICENSE
+# LICENSE
 This project includes components licensed under the MIT License and the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License.
 
 MIT Licensed Component:
